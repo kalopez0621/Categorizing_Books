@@ -64,10 +64,10 @@ streamlit run mystreamlitapp.py
 ## 📸 Screenshots
 
 ### **Book Categorization**
-![Book Categorization](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/images/0.01.png)
+![Book Categorization](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/main/images/screenshot1.png)
 
 ### **Word Cloud Generation**
-![Word Cloud](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/images/0.002.png)
+![Word Cloud](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/main/images/wordcloud.png)
 
 
 ## 📜 Project Structure
