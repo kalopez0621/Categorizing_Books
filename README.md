@@ -63,14 +63,16 @@ streamlit run mystreamlitapp.py
 
 📸 Screenshots
 Book Categorization	
+
 ![0 01](https://github.com/user-attachments/assets/587e8b29-2dca-4a9f-9492-095cab15ddb2)
 
 Word Cloud
 	
-(Replace image URLs with actual images if hosting screenshots.)
+![0 002](https://github.com/user-attachments/assets/02acf484-5dd5-4481-88ed-cc690830558b)
 
-📜 Project Structure
-bash
+
+## 📜 Project Structure
+```bash
 Copy
 Edit
 📂 Project-Folder
@@ -80,24 +82,26 @@ Edit
 │── 📄 README.md                # Documentation
 │── 📂 models                   # Saved models (TF-IDF & K-Means)
 │── 📂 data                     # Dataset (if applicable)
-📌 Future Enhancements
+```
+
+## 📌 Future Enhancements
 🔹 Deploy to Streamlit Cloud or Hugging Face Spaces.
 🔹 Improve model accuracy with additional training data.
 🔹 Enhance UI with more visuals and animations.
 
-💡 Credits
+## 💡 Credits
 Python, Streamlit, Scikit-Learn, NLTK, Matplotlib for ML & UI.
 Inspired by IT books dataset.
-📜 License
+## 📜 License
 This project is open-source under the MIT License. Feel free to modify and improve it!
 
-🎯 Ready to Deploy?
+## 🎯 Ready to Deploy?
 If you want to deploy this on Streamlit Cloud, simply:
 
 Push your code to GitHub.
 Go to Streamlit Cloud.
 Connect your repository & deploy!
 📬 Contact
-📧 Email: your-email@example.com
-🔗 GitHub: your-github-profile
+📧 Email: kalopez0621@gmail.com
+🔗 GitHub: 
 
