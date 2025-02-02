@@ -61,14 +61,13 @@ streamlit run mystreamlitapp.py
 ### 3️⃣ Click "Generate Word Cloud" to visualize key terms.
 ### 4️⃣ Upload a CSV file (optional) to categorize multiple books at once.
 
-📸 Screenshots
-Book Categorization	
+## 📸 Screenshots
 
-![0 01](https://github.com/user-attachments/assets/587e8b29-2dca-4a9f-9492-095cab15ddb2)
+### **Book Categorization**
+![Book Categorization](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/images/0.01.png)
 
-Word Cloud
-	
-![0 002](https://github.com/user-attachments/assets/02acf484-5dd5-4481-88ed-cc690830558b)
+### **Word Cloud Generation**
+![Word Cloud](https://raw.githubusercontent.com/kalopez0621/Categorizing_Books/images/0.002.png)
 
 
 ## 📜 Project Structure
